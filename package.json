@@ -1,0 +1,27 @@
+{
+  "name": "express-crash",
+  "version": "1.0.0",
+  "description": "\"# express-crash\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariolazzari/express-crash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariolazzari/express-crash/issues"
+  },
+  "homepage": "https://github.com/mariolazzari/express-crash#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
